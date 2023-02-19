@@ -9,3 +9,5 @@ pytorchのtensor型は行列の数値情報だけでなく、backward()によっ
 grad_fn=\<AddBackward0>は関数の演算過程にrequires_grad=Trueの変数があり,backward()可能であることを示している.  
 torch.ones(A, B, C) B=行, C=列, A=行列の数
 ndarray ⇒ Tensor torch.from_numpy()
+2023/2/19
+休み
